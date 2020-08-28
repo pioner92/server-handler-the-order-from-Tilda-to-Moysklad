@@ -1,0 +1,11 @@
+./node_modules
+node_modules
+.eslintrc
+./config.json
+config.json
+yarn.lock
+./yarn.lock
+./.nyc_output
+.nyc_output
+package-lock.json
+./package-lock.json

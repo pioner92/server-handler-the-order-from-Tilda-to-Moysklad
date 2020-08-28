@@ -1,0 +1,20 @@
+{
+  "store-mosk": {
+    "meta": {
+      "href": "https://online.moysklad.ru/api/remap/1.2/entity/store/2ef88d0f-a0e1-11ea-0a80-0503000d395c",
+      "metadataHref": "https://online.moysklad.ru/api/remap/1.2/entity/store/metadata",
+      "type": "store",
+      "mediaType": "application/json",
+      "uuidHref": "https://online.moysklad.ru/app/#warehouse/edit?id=2ef88d0f-a0e1-11ea-0a80-0503000d395c"
+    }
+  },
+  "store-spb": {
+    "meta": {
+      "href": "https://online.moysklad.ru/api/remap/1.2/entity/store/49f59359-9563-11ea-0a80-047800001e21",
+      "metadataHref": "https://online.moysklad.ru/api/remap/1.2/entity/store/metadata",
+      "type": "store",
+      "mediaType": "application/json",
+      "uuidHref": "https://online.moysklad.ru/app/#warehouse/edit?id=49f59359-9563-11ea-0a80-047800001e21"
+    }
+  }
+}
