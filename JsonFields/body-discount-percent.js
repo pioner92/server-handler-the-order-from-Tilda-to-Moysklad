@@ -1,8 +1,6 @@
-const bodyDiscountPercent = (discount) => {
-    return (
-        {
-            "discount": discount
-        }
-    )
-}
-module.exports = bodyDiscountPercent
+const bodyDiscountPercent = (discount) => (
+    {
+        discount,
+    }
+);
+module.exports = bodyDiscountPercent;
